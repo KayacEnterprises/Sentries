@@ -14,6 +14,6 @@ Those who lay down the infrastructure needed by the incoming waves of mass adopt
 
 But what exactly is "generational wealth"? It is a **productive store of value that can be sustained and passed down for generations**. You can't say that of most NFTs. But you WILL be able to say that of _**Sentries**_ and **Power Blocks**.
 
-Just as the Rockefellers and Vanderbilts made their fortunes by building railroads and oil refineries, _**Sentries**_** will make their own fortunes building** [**Solana validators and RPC nodes**](project-objectives/5.-b2b-services.md#blockchain-infrastructure).
+Just as the Rockefellers and Vanderbilts made their fortunes by building railroads and oil refineries, _**Sentries**_** will make their own fortunes building** [**Solana validators and RPC nodes**](project-objectives/5.-b2b-services.md).
 
 ![( , )](.gitbook/assets/HandshakeSmall.png)
