@@ -12,7 +12,7 @@ While the Admin Team focuses on technical and business development, the SentryDA
 
 * Mobilizing the community on social media.
 * Organizing Online and IRL events, marketing, and collabs.
-* Scouting for _Sentries_ Infrastructure Services clients.
+* Scouting for _Sentries_ B2B Services clients.
 * Hunting Alpha and Whitelist collabs.
 
 ## FORMATION
@@ -29,9 +29,10 @@ The SentryDAO Council must doxx to the Admin Team.
 
 Quality work requires funds. As such, the SentryDAO Treasury will be funded via the following:
 
-* 100% of commissions from delegated SOL stake
 * 2% Sentries PFP secondary sales royalties
 * 2% Lode Link secondary sales royalties
-* Service Referral Commissions
+* 100% of The Lode delegated stake commissions
+* 20% of B2B Service referral commissions
+* B2B Service Power Block payments
 
-The Treasury's multi-sig wallets will be managed using [**Snowflake.so**](https://snowflake.so/)
+The Treasury's multi-sig wallets will be managed using [**Snowflake.so**](https://snowflake.so/)****
