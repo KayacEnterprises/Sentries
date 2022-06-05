@@ -13,7 +13,7 @@ _10,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync t
 
 ## Why _Sentries_?
 
-When designed properly, **NFTs and mints can super-charge community building, raise startup capital, and align stakeholders towards value creation.** In addition, **Profile Picture (PFP) NFTs** enable both **individual and communal online identities** on social media**.**
+When designed properly, **NFTs and mints can super-charge community building, raise startup capital, and align stakeholders towards value creation.** In addition, **Profile Picture (PFP) NFTs** enable both **individual and communal online identities** on social media.
 
 Oh, and they're **FUN to collect.**
 
@@ -21,11 +21,11 @@ Oh, and they're **FUN to collect.**
 
 ## How _Sentries_?
 
-1\. **Quality**: **** Crisp linework, vibrant yet balanced palettes, and bold cell-shading make each Sentry's features pop at a glance.
+1\. **Quality**: Crisp linework, vibrant yet balanced palettes, and bold cell-shading make each Sentry's features pop at a glance.
 
 2\. **Recognizable**: Sentries' unique design and body shape give them a silhouette that is easily differentiated from other PFP collections.
 
-3\. **Unique**: Each Sentry is different enough from the rest to give them their own unique personality. This makes it easier for holders to use and bond to their PFP.
+3\. **Unique**: Each Sentry is different enough from the rest to give them their own unique personality. This makes them more relatable PFPs to their holders.
 
 4\. **Clean**: Packing too much detail into a PFP can make the art feel busy and less memorable.
 
@@ -50,9 +50,9 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 ## Wen _Sentries_?
 
-:handshake: **MINT DATE: TBA | MINT PRICE: TBA | SUPPLY: 10,000 | POST-MINT OUT REVEAL** :handshake:****
+:handshake: **MINT DATE: TBA | MINT PRICE: TBA | SUPPLY: 10,000 | POST-MINT OUT REVEAL** :handshake:
 
-**ROYALTIES:** 7% (4% Admin Team / 2% **** [**SentryDAO**](sentry-dao.md) **** / 1% [**Power Grid**](project-objectives/3.-power-blocks.md#power-grid))
+**ROYALTIES:** 7% (4% Admin Team / 2% [**SentryDAO**](sentry-dao.md)  / 1% [**Power Grid**](project-objectives/3.-power-blocks.md#power-grid))
 
 **Whitelist Tiers:**
 
