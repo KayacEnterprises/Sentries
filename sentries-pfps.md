@@ -39,13 +39,12 @@ Oh, and they're **FUN to collect.**
 
 ## Who _**Sentries**_?
 
-The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpad we lock in with.\
+The Admin Team behind _**Sentries**_ will be privately doxxing with Launchpad we lock in with.\
 \
 [DaveR](https://twitter.com/Dave\_Kayac) - CEO, Creative Director, Legal\
 [0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relations\
 [Divide](https://twitter.com/\_div\_ide\_) - COO, Biz Dev\
-[Bird](https://twitter.com/JjTheDeaMaxi) - Admin Assistant, Socials\
-[Stuffalot](https://twitter.com/Stuffalot01) - Community Manager\
+[Bird](https://twitter.com/JjTheDeaMaxi) - Community Manager, Staff Admin\
 \
 However, the management of the Sentries community will be shared with the [**SentryDAO**](sentry-dao.md)**.** Holding at least 1 Sentry is required for DAO membership.
 
