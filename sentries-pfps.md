@@ -39,7 +39,7 @@ Oh, and they're **FUN to collect.**
 
 ## Who _**Sentries**_?
 
-The Admin Team behind _**Sentries**_ has been doxxed by:\
+The Admin Team behind _**Sentries**_ will be privately doxxing with Launchpad we lock in with.\
 \
 [DaveR](https://twitter.com/Dave\_Kayac) - CEO, Creative Director, Legal\
 [0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relations\
