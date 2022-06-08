@@ -44,7 +44,7 @@ The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpa
 [DaveR](https://twitter.com/Dave\_Kayac) - CEO, Creative Director, Legal\
 [0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relations\
 [Divide](https://twitter.com/\_div\_ide\_) - COO, Biz Dev\
-[Bird](https://twitter.com/JjTheDeaMaxi) - Admin Assistant, Socials\
+[Bird](https://twitter.com/JjTheDeaMaxi) - Chief of Staff, Socials\
 [Stuffalot](https://twitter.com/Stuffalot01) - Community Manager\
 \
 However, the management of the Sentries community will be shared with the [**SentryDAO**](sentry-dao.md)**.** Holding at least 1 Sentry is required for DAO membership.
