@@ -7,7 +7,7 @@ coverY: 0
 
 ## What _Sentries_?
 
-_10,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync to run the network and make money doing it!_
+_8,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync to run the network and make money doing it!_
 
 ![](.gitbook/assets/Sample4A.png)
 
@@ -51,9 +51,9 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 ## Wen _Sentries_?
 
-:handshake: **MINT DATE: TBA | MINT PRICE: TBA | SUPPLY: 10,000 | POST-MINT OUT REVEAL** :handshake:
+:handshake: **MINT DATE: TBA | MINT PRICE: 2.5 SOL | SUPPLY: 8,000 | POST-MINT OUT REVEAL** :handshake:
 
-**ROYALTIES:** 7% (4% Admin Team / 2% [**SentryDAO**](sentry-dao.md)  / 1% [**Power Grid**](project-objectives/3.-power-blocks.md#power-grid))
+**ROYALTIES:** 7% (4% Admin Team / 3% [**SentryDAO**](sentry-dao.md)**)**
 
 **Whitelist Tiers:**
 
