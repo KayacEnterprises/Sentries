@@ -29,7 +29,7 @@ Oh, and they're **FUN to collect.**
 
 4\. **Clean**: Packing too much detail into a PFP can make the art feel busy and less memorable.
 
-5\. **Numerous**: A 10K supply collection enables a large community, affordable mint pricing, and strong secondary market volumes.
+5\. **Numerous**: A 8K supply collection enables a large community, affordable mint pricing, and strong secondary market volumes.
 
 6\. **Sub-DAO Friendly**: The Sentries collection includes rare, easily recognizable traits that can form the basis for community sub-DAOs, similar to Alien SMBs or Coral OKBs.
 
