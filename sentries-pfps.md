@@ -50,7 +50,7 @@ The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpa
 [Bird](https://twitter.com/JjTheDeaMaxi) - Chief of Staff, Socials\
 [Stuffalot](https://twitter.com/Stuffalot01) - Community Manager\
 \
-However, the management of the Sentries community will be shared with the [**SentryDAO**](sentry-dao.md)**.** Holding at least 1 Sentry is required for DAO membership.
+However, the management of the Sentries community will be shared with the [**SentryDAO**](broken-reference)**.** Holding at least 1 Sentry is required for DAO membership.
 
 ## Wen _Sentries_?
 
