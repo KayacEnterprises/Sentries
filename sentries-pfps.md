@@ -51,7 +51,7 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 :handshake: **MINT DATE: TBA AUG | MINT PRICE: 1 SOL | SUPPLY: 8,000 | POST-MINT OUT REVEAL** :handshake:
 
-**ROYALTIES:** 7% (3.5% Admin Team / 3.5% The Lode Self-Stake)
+**ROYALTIES:** 7% (3.5% Admin Team / 3.5% Sentry Holders)
 
 **Whitelist Tiers:**
 
