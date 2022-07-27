@@ -44,7 +44,7 @@ When designed properly, **NFTs and mints can super-charge community building, ra
 
 The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpad we lock in with.\
 \
-[Divide](https://twitter.com/\_div\_ide\_) CEO/COO, Biz Dev\
+[divide](https://twitter.com/\_div\_ide\_) - CEO, Business Developement\
 [0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relation\
 [DaveR](https://twitter.com/Dave\_Kayac) - Creative Director, Legal Consultant\
 [Bird](https://twitter.com/JjTheDeaMaxi) - Chief of Staff, Socials\
@@ -60,4 +60,4 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 **Follow us on** [**Twitter**](https://twitter.com/Sentries\_SOL) **and join our** [**Discord**](https://discord.com/invite/sentries) **for Whitelist Opportunities.**
 
-![](.gitbook/assets/Sample12A.png)
+![Rare Trait: Industrial Background.](.gitbook/assets/Sample12A.png)
