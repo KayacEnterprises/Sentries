@@ -38,6 +38,8 @@ When designed properly, **NFTs and mints can super-charge community building, ra
 
 7\. **Charming**: They're cute and cool, a great combination for broad appeal.
 
+![](.gitbook/assets/CrewBG-small.png)
+
 ## Who _**Sentries**_?
 
 The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpad we lock in with.\
