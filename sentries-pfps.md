@@ -13,16 +13,14 @@ _8,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync to
 
 When designed properly, **NFTs and mints can super-charge community building, raise startup capital, and align stakeholders towards value creation.** In addition, **Profile Picture (PFP) NFTs** enable both **individual and communal online identities** on social media.
 
-Oh, and they're **FUN to collect. Infrastructure investments don't have to be boring.**
-
-![Rare Traits: Solana Circuits & Wolf Aura](.gitbook/assets/WebSample1.jpg)
-
 **Hold a Sentry to gain:**\
 \
 :computer: Discounted RPC Node Access: Validator-Boosted Speed!\
 :money\_with\_wings: B2B Referral Program: Get Cash for Helping Sentries Grow! \
 :muscle: Flex-&-Earn: Rock your Sentries on Twitter and Earn Rewards!\
 ![](<.gitbook/assets/Power Block Icon2.png>) Gamified SOL Staking: Power up and Stake your Sentry to receive SOL returns!
+
+![Rare Traits: Solana Circuits & Wolf Aura](.gitbook/assets/WebSample1.jpg)
 
 ## How _Sentries_?
 
