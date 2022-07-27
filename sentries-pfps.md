@@ -9,8 +9,6 @@ coverY: 0
 
 _8,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync to run the network and make money doing it!_
 
-![](.gitbook/assets/Sample4A.png)
-
 ## Why _Sentries_?
 
 When designed properly, **NFTs and mints can super-charge community building, raise startup capital, and align stakeholders towards value creation.** In addition, **Profile Picture (PFP) NFTs** enable both **individual and communal online identities** on social media.
@@ -18,6 +16,8 @@ When designed properly, **NFTs and mints can super-charge community building, ra
 Oh, and they're **FUN to collect.**
 
 **Infrastructure investments don't have to be boring.**
+
+![](.gitbook/assets/WebSample1.jpg)
 
 ## How _Sentries_?
 
@@ -35,15 +35,13 @@ Oh, and they're **FUN to collect.**
 
 7\. **Charming**: They're cute and cool, a great combination for broad appeal.
 
-![](.gitbook/assets/Sample1A.png)
-
 ## Who _**Sentries**_?
 
 The Admin Team behind _**Sentries**_ will be privately doxxing with the Launchpad we lock in with.\
 \
-[DaveR](https://twitter.com/Dave\_Kayac) - CEO, Creative Director, Legal\
-[0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relations\
-[Divide](https://twitter.com/\_div\_ide\_) - COO, Biz Dev\
+[Divide](https://twitter.com/\_div\_ide\_) CEO/COO, Biz Dev\
+[0xNallok](https://twitter.com/0xTuti) - CTO, Infrastructure Relation\
+[DaveR](https://twitter.com/Dave\_Kayac) - Creative Director, Legal Consultant\
 [Bird](https://twitter.com/JjTheDeaMaxi) - Chief of Staff, Socials\
 [Stuffalot](https://twitter.com/Stuffalot01) - Community Manager\
 \
@@ -51,9 +49,9 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 ## Wen _Sentries_?
 
-:handshake: **MINT DATE: TBA | MINT PRICE: 2.5 SOL | SUPPLY: 8,000 | POST-MINT OUT REVEAL** :handshake:
+:handshake: **MINT DATE: TBA AUG | MINT PRICE: 1 SOL | SUPPLY: 8,000 | POST-MINT OUT REVEAL** :handshake:
 
-**ROYALTIES:** 7% (4% Admin Team / 3% [**SentryDAO**](sentry-dao.md)**)**
+**ROYALTIES:** 7% (3.5% Admin Team / 3.5% Sentry Holders)
 
 **Whitelist Tiers:**
 

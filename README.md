@@ -10,10 +10,8 @@ layout: landing
 
 **There is an economic, technological, and cultural migration happening**: **Money, brainpower, and social status are moving from TradFi and Web2 to DeFi and Web3.**
 
-Those who lay down the infrastructure needed by the incoming waves of mass adopters will be poised to produce generational wealth.
+From gamers, to bankers, to artists, every day more and more people are participating in Web3 economies. Those who lay down the infrastructure needed by these waves of mass adopters will be poised to create generational fortunes, similar to those who built railroads and oil refineries during the industrial revolution.
 
-But what exactly is "generational wealth"? It is a **productive store of value that can be sustained and passed down for generations**. You can't say that of most NFTs. But you WILL be able to say that of _**Sentries**_ and **Power Blocks**.
-
-Just as the Rockefellers and Vanderbilts made their fortunes by building railroads and oil refineries, _**Sentries**_** will make their own fortunes building** [**Solana validators and RPC nodes**](project-objectives/5.-b2b-services.md).
+That's why _**Sentries**_ is a **Blockchain Infrastructure Company deploying** [**Solana validators and RPC nodes**](project-objectives/5.-b2b-services.md).
 
 ![( , )](.gitbook/assets/HandshakeSmall.png)
