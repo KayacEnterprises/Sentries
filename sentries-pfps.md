@@ -17,7 +17,7 @@ When designed properly, **NFTs and mints can super-charge community building, ra
 \
 :computer: Discounted RPC Node Access: Validator-Boosted Speed!\
 :money\_with\_wings: B2B Referral Program: Get Cash for Helping Sentries Grow! \
-:muscle: Flex-&-Earn: Rock your Sentries on Twitter and Earn Rewards!\
+:muscle: Flex-&-Earn: Use a Sentry on Twitter and Earn Rewards!\
 ![](<.gitbook/assets/Power Block Icon2.png>) Gamified SOL Staking: Power up and Stake your Sentry to receive SOL returns!
 
 ![Rare Traits: Solana Circuits & Wolf Aura](.gitbook/assets/WebSample1.jpg)
