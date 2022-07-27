@@ -60,4 +60,4 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 **Follow us on** [**Twitter**](https://twitter.com/Sentries\_SOL) **and join our** [**Discord**](https://discord.com/invite/sentries) **for Whitelist Opportunities.**
 
-![Rare Trait: Industrial Background.](.gitbook/assets/Sample12A.png)
+![Rare Traits: Industrial Background, Clear Body](.gitbook/assets/WebSample7.jpg)
