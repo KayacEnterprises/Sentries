@@ -17,6 +17,8 @@ Oh, and they're **FUN to collect.**
 
 **Infrastructure investments don't have to be boring.**
 
+![](.gitbook/assets/WebSample1.jpg)
+
 ## How _Sentries_?
 
 1\. **Quality**: Crisp linework, vibrant yet balanced palettes, and bold cell-shading make each Sentry's features pop at a glance.
