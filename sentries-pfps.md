@@ -5,9 +5,9 @@ coverY: 0
 
 # SENTRIES PFPs
 
-## What _Sentries_?
+## What are _Sentries_?
 
-_8,000 Non-Fungible Sentries living on the Solana Blockchain, working in Sync to run the network and make money doing it!_
+_8,000 Androids guarding the Solana Blockchain, working in Sync to run the network and make money doing it!_
 
 ## Why _Sentries_?
 
