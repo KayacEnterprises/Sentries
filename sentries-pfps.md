@@ -51,14 +51,7 @@ However, the management of the Sentries community will be shared with the [**Sen
 
 :handshake: **MINT DATE: TBA AUG | MINT PRICE: 1 SOL | SUPPLY: 8,000 | POST-MINT OUT REVEAL** :handshake:
 
-**ROYALTIES:** 7% (3.5% Admin Team / 3.5% Sentry Holders)
-
-**Whitelist Tiers:**
-
-* Basic WL: 1 Mint, not guaranteed
-* Guaranteed WL x1
-* Guaranteed WL x2
-* Guaranteed WL x3
+**ROYALTIES:** 7% (3.5% Admin Team / 3.5% The Lode Self-Stake)
 
 **Follow us on** [**Twitter**](https://twitter.com/Sentries\_SOL) **and join our** [**Discord**](https://discord.com/invite/sentries) **for Whitelist Opportunities.**
 
